@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="jpwp_bothegate_engine.LogicDevice">
+    <Position X="6" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAEAEiAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>LogicDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jpwp_bothegate_engine.ORGate">
+    <Position X="10.75" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogicDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jpwp_bothegate_engine.NANDGate">
+    <Position X="13.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogicDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jpwp_bothegate_engine.LogicSystem">
+    <Position X="1.75" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAQAAAwAAAAAAAAAAABAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>LogicSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jpwp_bothegate_engine.Wire">
+    <Position X="10.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogicDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
