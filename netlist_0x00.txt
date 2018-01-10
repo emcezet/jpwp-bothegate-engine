@@ -1,0 +1,4 @@
+netlist_0x00 : NAND Cascade
+NAND0 0 1 2
+NAND1 2 2 3
+NAND2 3 3 4

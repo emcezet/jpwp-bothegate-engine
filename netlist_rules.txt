@@ -1,0 +1,24 @@
+First line is any string and is ignored by parsers.
+
+Single-line comments only.
+; Comment
+
+DEVICE VERTEX_0 VERTEX_1 VERTEX_2
+
+Digital devices:
+
+k input gate
+GATE_NAME input_1 input_2 ... input_k output
+
+GATE_NAME = {
+	NOT,
+	OR,
+	AND,
+	NOR,
+	NAND,
+	XOR,
+	EXOR
+	}
+
+Flip-flop
+Latch
